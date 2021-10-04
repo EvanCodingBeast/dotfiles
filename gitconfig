@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = evan.laulom@hotmail.com
+	name = Evan Laulom
